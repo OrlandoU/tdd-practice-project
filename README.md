@@ -1,5 +1,5 @@
 # Test Driven Development Project
-Assignment for Test Driven Development section, as part of the curriculum of `_The Odin Project_`.
+Assignment for Test Driven Development section, as part of the curriculum of `The Odin Project`.
 
 # Technologies:
 Project is created with:
