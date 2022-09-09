@@ -1,7 +1,7 @@
 # Test Driven Development Project
 Assignment for Test Driven Development section, as part of the curriculum of `The Odin Project`.
 
-#Introduction
+# Introduction
 Small script made while applying Test Driven Development, making use of jest for writing automated tests for small units of code. 
 
 # Technologies:
