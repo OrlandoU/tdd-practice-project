@@ -2,7 +2,7 @@
 Assignment for Test Driven Development section, as part of the curriculum of `The Odin Project`.
 
 # Introduction
-Learned about Test first programming approach and Unit testing.
+Learned about Test first programming approach and Unit testing.  
 Small script made while applying Test Driven Development, making use of Jest for writing automated tests for small units of code. 
 
 # Technologies:
